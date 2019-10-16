@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Touch_gestures</string>
+    <string name="botoncito">0</string>
+    <string name="Explicacion">Esto es un contador</string>
+</resources>
